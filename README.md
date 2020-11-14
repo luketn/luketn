@@ -1,6 +1,6 @@
 ### Connect
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@luketn)
-
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lukethompson9/)
 
 <!--
 **luketn/luketn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
